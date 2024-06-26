@@ -1,0 +1,125 @@
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+Busca de aluno realizada: 7
+Listagem de alunos realizada.
+Aluno cadastrado: nicolas
+Busca de turma realizada: 5
+Listagem de turmas realizada.
+LOGOU COM FUNCIONARIO
+Aluno cadastrado: nicolas
+Busca de turma realizada: 5
+Listagem de turmas realizada.
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+Listagem de mat�rias realizada.
+LOGOU COM FUNCIONARIO
+Turma cadastrada: 9b
+LOGOU COM PROFESSOR
+Professor cadastrado: Loren
+Busca de matéria realizada: 3
+Listagem de matérias realizada.
+LOGOU COM FUNCIONARIO
+Funcionário cadastrado: iae
+LOGOU COM FUNCIONARIO
+Matéria cadastrada: twotwo
+LOGOU COM PROFESSOR
+Aluno cadastrado: rude
+LOGOU COM FUNCIONARIO
+Funcionário cadastrado: pelo amor
+LOGOU COM FUNCIONARIO
+Aula cadastrada: 1
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+Aula cadastrada: 3
+LOGOU COM FUNCIONARIO
+Aluno cadastrado: iron
+Aluno cadastrado: Aluno
+LOGOU COM FUNCIONARIO
+Aula cadastrada: 2
+Aula cadastrada: 1
+LOGOU COM FUNCIONARIO
+LOGOU COM PROFESSOR
+Matéria cadastrada: vc que sabe
+Matéria cadastrada: beatles
+LOGOU COM PROFESSOR
+Turma cadastrada: 2b
+Turma cadastrada: 1b
+Funcionário cadastrado: ticotico
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+Turma cadastrada: 5b
+LOGOU COM FUNCIONARIO
+Funcionário cadastrado: canh�o
+Funcionário cadastrado: deeeee
+LOGOU COM FUNCIONARIO
+Funcionário cadastrado: sadfgasredasdf
+Funcionário cadastrado: sim
+LOGOU COM FUNCIONARIO
+Funcionário cadastrado: tadoido
+LOGOU COM FUNCIONARIO
+Funcionário cadastrado: doido
+LOGOU COM FUNCIONARIO
+Funcionário cadastrado: say
+Funcionário cadastrado: nome
+LOGOU COM FUNCIONARIO
+Funcionário cadastrado: makes
+Funcionário cadastrado: ola
+Funcionário cadastrado: hip hip
+LOGOU COM FUNCIONARIO
+Professor cadastrado: welllll
+Professor cadastrado: rivers
+LOGOU COM FUNCIONARIO
+Funcionário cadastrado: fever
+LOGOU COM FUNCIONARIO
+Funcionário cadastrado: yea
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+Matéria cadastrada: ola
+Professor cadastrado: lotario
+LOGOU COM FUNCIONARIO
+LOGOU COM PROFESSOR
+Turma cadastrada: away
+LOGOU COM PROFESSOR
+LOGOU COM FUNCIONARIO
+Funcionário cadastrado: oi
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+LOGOU COM PROFESSOR
+Matéria cadastrada: sim
+LOGOU COM PROFESSOR
+LOGOU COM FUNCIONARIO
+LOGOU COM FUNCIONARIO
+Funcionário cadastrado: monark
+LOGOU COM FUNCIONARIO
+LOGOU COM PROFESSOR
+Matéria cadastrada: jucas
+LOGOU COM PROFESSOR
+LOGOU COM PROFESSOR
+LOGOU COM PROFESSOR
+LOGOU COM PROFESSOR
+Matéria cadastrada: Tucutu
+LOGOU COM PROFESSOR
+Turma cadastrada: sdfsdfs
+LOGOU COM PROFESSOR
+LOGOU COM FUNCIONARIO
+Aluno cadastrado: Nome
+Turma cadastrada: 3b
+Turma cadastrada: oquiro
+Professor cadastrado: Wrong
+Matéria cadastrada: Have
+Funcionário removido: Otis
+Funcionário atualizado: Otis
+Funcionário cadastrado: oi
